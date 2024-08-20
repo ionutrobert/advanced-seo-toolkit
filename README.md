@@ -14,6 +14,18 @@ A comprehensive SEO toolkit for WordPress, designed to enhance your site's visib
 
 ## Features
 
+## Features
+
+- **SEO Analytics Dashboard:** Monitor your SEO metrics easily.
+  ![SEO Analytics Dashboard](screenshots/1.png)
+
+- **Detailed Post Views Tracking:** Track total and unique views for each post.
+  ![Post Views Tracking](screenshots/2.png)
+
+- **Customizable Meta Tags:** Add dynamic meta tags for improved SEO.
+  ![Customizable Meta Tags](screenshots/3.png)
+
+  
 - **Dynamic Meta Tags**: Automatically generate meta descriptions and keywords based on post content.
 - **Schema Markup**: Includes JSON-LD schema for improved SEO.
 - **SEO Analytics Dashboard**: View post views, unique views, and SEO-related data directly in the WordPress dashboard.
